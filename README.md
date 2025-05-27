@@ -28,7 +28,7 @@ The dataset, Film Franchise Box Office Revenue (US and Canada) includes:
 
 **Conclusion**
 
-We found that Random Forest Regressor with Hyperparameter Tuning was our best model with an accuracy score of 77%. In order to improve on our accuracy, we can try to add more features to the dataset such as genres, and directors. We can also try to focus on individual original films instead of films that connect to film franchises.
+We found that **Random Forest Regressor with Hyperparameter Tuning** was our best model with an **accuracy score of 77%**. In order to improve on our accuracy, we can try to add more features to the dataset such as genres, and directors. We can also try to focus on individual original films instead of films that connect to film franchises.
 
 **Sources**
 * Box Office Mojo - https://www.boxofficemojo.com/franchise/?ref_=bo_nb_gs_secondarytab
